@@ -15,7 +15,7 @@ public class randomDataGenerator {
 	
 	String email = "email"+r.nextInt()+"@gmail.com";
 	System.out.println(email);
-	//System.out.println(email);
+	System.out.println(email);
 	}
 
 }
